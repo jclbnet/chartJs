@@ -1,6 +1,6 @@
 # chartJs
 chartJs优化版
 
-Installation
+# Installation
 To install chart run the following:
 > go get -u github.com/wang-c-sir/chartJs
