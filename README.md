@@ -31,6 +31,7 @@ MChart {
 }
 
 **********************************************************
+
 Chart {
     id: chart
     chartAnimated: true;
@@ -47,19 +48,19 @@ Chart {
                 pointColor: "rgba(220,220,220,1)",
           pointStrokeColor: "#ffffff",
                       data: [65,59,90,81,56,55,40]
-      }, {
+        }, {
                  fillColor: "rgba(151,187,205,0.5)",
                strokeColor: "rgba(151,187,205,1)",
                 pointColor: "rgba(151,187,205,1)",
           pointStrokeColor: "#ffffff",
                       data: [10,10,10,10,10,10,10]
-      }, {
+        }, {
               fillColor: "rgba(111,137,205,0.5)",
             strokeColor: "rgba(111,137,205,1)",
              pointColor: "rgba(111,137,205,1)",
-       pointStrokeColor: "#ffffff",
+        pointStrokeColor: "#ffffff",
                    data: [278,277,277,274,276,279,280]
-      }]
+        }]
     })
 } 
 ``` 
