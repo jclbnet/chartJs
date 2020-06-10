@@ -8,7 +8,8 @@ To install chart run the following:
 ![](https://github.com/wang-c-sir/chartJs/blob/master/preview/chart.png)
 For Support features, please check(http://www.chartjs.org/)
 # Usage
- ` MChart {
+``` 
+MChart {
     id: chart
     Layout.fillWidth: true
     Layout.fillHeight: true
@@ -60,4 +61,5 @@ Chart {
                    data: [278,277,277,274,276,279,280]
       }]
     })
-} ` 
+} 
+``` 
